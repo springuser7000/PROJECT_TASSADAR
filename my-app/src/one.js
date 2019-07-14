@@ -17,4 +17,6 @@ class ShoppingList extends React.Component {
       );
     }
   }
-  
+
+
+<ShoppingList name="Mark" />
