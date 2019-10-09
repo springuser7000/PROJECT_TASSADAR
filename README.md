@@ -1,3 +1,10 @@
+자바스크립트 공부할까나...하이하이
+Hello !
+묘야 져아
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
