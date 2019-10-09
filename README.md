@@ -2,7 +2,8 @@
 Hello !
 묘야 져아
 
-
+참고로 지금은 안쓰는 레퍼토리가 대부분이구
+UNO는 만들다가 때려쳤어요 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
